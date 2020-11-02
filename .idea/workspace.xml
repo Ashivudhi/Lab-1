@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36f42d0c-3852-4ff5-aff4-416fe383d054" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Details.bal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/editor.allow.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ballerina Main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j9HKSgfpPHEIqbFMjNS5DNGmwh" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Empty file" value="Ballerina Main" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.libraries.is.expanded" value="true" />
+    <property name="configurable.Project.libraries.is.expanded" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="ballerina.langserver.logs" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Details.bal" type="BallerinaApplicationRunConfiguration" factoryName="Ballerina" temporary="true">
+      <output_file path="$PROJECT_DIR$" />
+      <module name="Lab-1" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/.idea/Details.bal" />
+      <myRunKind value="MAIN" />
+      <remoteDebuggingHost value="127.0.0.1" />
+      <remoteDebuggingPort value="5005" />
+      <kind value="MAIN" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ballerina.Details.bal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36f42d0c-3852-4ff5-aff4-416fe383d054" name="Default Changelist" comment="" />
+      <created>1603209322778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603209322778</updated>
+      <workItem from="1603209323834" duration="22000" />
+      <workItem from="1603209346521" duration="2194000" />
+      <workItem from="1603824440456" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="166" y="27" width="1024" height="741" key="#Project_Structure" timestamp="1603209410709">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="741" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1603209410709" />
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603209593671">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1603209593671" />
+    <state x="461" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603209642561">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="461" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1603209642561" />
+    <state width="1300" height="159" key="GridCell.Tab.0.bottom" timestamp="1603231024100">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1300" height="159" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603231024100" />
+    <state width="1300" height="159" key="GridCell.Tab.0.center" timestamp="1603231024100">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1300" height="159" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603231024100" />
+    <state width="1300" height="159" key="GridCell.Tab.0.left" timestamp="1603231024099">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1300" height="159" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603231024099" />
+    <state width="1300" height="159" key="GridCell.Tab.0.right" timestamp="1603231024100">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1300" height="159" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603231024100" />
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1603210097120">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1603210097120" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603824456739">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1603824456739" />
+  </component>
+</project>
